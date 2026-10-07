@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shtrmx&label=Profile%20views&color=0e75b6&style=flat" alt="shtrmx" /> </p>
 
-- 🔭 I’m currently working in [FrisbeeSBP](github.com/FrisbeeSBP)
+- 🔭 I’m currently working in [FrisbeeSBP](https://github.com/FrisbeeSBP)
 
 - 🌱 I’m currently learning **Anime.js & Vue & Fastapi**
 
-- 📝 I regularly write articles on [t.me/sht0rmx](t.me/sht0rmx)
+- 📝 I regularly write articles on [t.me/sht0rmx](https://t.me/sht0rmx)
 
 - 💬 Ask me about **python & db's & api**
 
